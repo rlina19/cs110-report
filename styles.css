@@ -1,0 +1,11 @@
+:root {
+  --surface: #4f94be;
+  --line: #0b1f29;
+  --ink: #194d5a;
+  --signal: #59ddff;
+}
+
+.report-shell {
+  width: min(72rem, calc(100% - 2rem));
+  margin: 0 auto;
+}
